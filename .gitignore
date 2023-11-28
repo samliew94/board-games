@@ -1,0 +1,14 @@
+/config-server
+/eureka
+/ftk-world-map
+/games
+/games-directory-service-express
+/gateway
+/home
+/images
+/socket-io-client
+/sso-service-express
+/static
+/.vscode
+/ftk-fe/node_modules
+/ftk-be/node_modules
